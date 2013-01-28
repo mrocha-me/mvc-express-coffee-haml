@@ -1,0 +1,13 @@
+{
+  "name": "mvc-express-coffee-haml",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.6",
+    "coffee-script": "1.4.0",
+    "haml-coffee": "1.9.1"
+  }
+}
